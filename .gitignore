@@ -4,3 +4,9 @@ __pycache__
 *.pytest_cache
 .gitattributes
 !*.zip
+*.csv
+*.tsv
+*.db
+zippedData
+Scratch
+Licenses
